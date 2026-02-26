@@ -1,16 +1,46 @@
-## Hi there 👋
+# Bilal Shirazi
 
-<!--
-**bilalshirazi/bilalshirazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome!
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/bilalshirazi)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/bilalshirazi)
+[![Website](https://img.shields.io/badge/Website-bilalshirazi.com-informational)](https://bilalshirazi.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏅 Certifications
+
+- Generative AI with Large Language Models
+- Machine Learning in Production
+- Agentic AI
+- AI Practitioner
+- AI Fluency
+- Agentic Coding
+- Agentic Tooling
+
+---
+
+## 📄 Publications
+
+- [An analysis of concurrent memory allocators](https://bilalshirazi.com)
+
+---
+
+## 🎤 Presentations
+
+- AWS Podcast
+- AWS Twitch
+- AWS Summit
+
+---
+
+## 🎓 Education
+
+- **MBA** – Quantic
+- **B.Math/CS** – University of Waterloo
+
+---
+
+## 📬 Contact
+
+Feel free to reach out via [bilalshirazi.com](https://bilalshirazi.com).
